@@ -1,1 +1,1 @@
-<h1>Cafe Menu</h1>
+<h1 align="center">Cafe Menu</h1>
